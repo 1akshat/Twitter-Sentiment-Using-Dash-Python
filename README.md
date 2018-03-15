@@ -1,0 +1,8 @@
+# Twitter-Sentiment-Using-Dash-Python
+Live Twitter Analytics using Dash Python
+Go to https://apps.twitter.com/ and create new app.
+Catch your required creadentials and put in lines 27,28,29,30 in twitter_sentiment_stream.py file.
+Run the script using python twitter_sentiment_stream.py.
+This will create a twitter.db sqlite3 database. Keep this script running and in the new terminal window run other script using python dash_sentiment_analysis.py.
+Now open the route on localhost. You will see streaming data on the webpage.
+You can change the keyword on the searchbar. It's default value is twitter.
