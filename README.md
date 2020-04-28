@@ -1,4 +1,5 @@
 # Twitter-Sentiment-Using-Dash-Python
+![Demo](https://github.com/1akshat/Twitter-Sentiment-Using-Dash-Python/blob/master/captured.gif)
 <p>Live Twitter Analytics using Dash Python</p>
 <p>Go to https://apps.twitter.com/ and create new app.</p>
 <p>Catch your required creadentials and put in lines 27,28,29,30 in twitter_sentiment_stream.py file.</p>
